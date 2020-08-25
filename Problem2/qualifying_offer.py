@@ -1,25 +1,26 @@
 import csv
 import players as MLBPlayers
 import statistics
+import os
 from datetime import datetime as dt
 
-
 HIGHEST_SALARIES_THRESHOLD = 125
+BUILD_FILEPATH = lambda x: os.path.join('Problem2_Output', x)
 
 def _save_result(offer, players, clean_players, top_players):
     date_str = dt.now().strftime("%m-%d-%Y-%H-%M-%S")
 
-    with open(f'all_players_{date_str}.csv', 'w', newline='') as f:
+    with open(BUILD_FILEPATH(f'all_players_{date_str}.csv'), 'w', newline='') as f:
         csv_writer = csv.writer(f)
         csv_writer.writerow(MLBPlayers.Player.CSV_HEADER)
         csv_writer.writerows(x.to_csv_row() for x in players)
 
-    with open(f'top_players_{date_str}.csv', 'w', newline='') as f:
+    with open(BUILD_FILEPATH(f'top_players_{date_str}.csv'), 'w', newline='') as f:
         csv_writer = csv.writer(f)
         csv_writer.writerow(MLBPlayers.Player.CSV_HEADER)
         csv_writer.writerows(x.to_csv_row() for x in top_players)
 
-    with open(f'results_{date_str}.txt', 'w') as f:
+    with open(BUILD_FILEPATH(f'results_{date_str}.txt'), 'w') as f:
         f.writelines(
             '\n'.join(
                 [

@@ -24,11 +24,13 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Kemp, Matt",21750000,GOOD,Salary was parsed,2016,MLB,True
 "Crawford, Carl",21607143,GOOD,Salary was parsed,2016,MLB,True
 "Werth, Jayson",21571429,GOOD,Salary was parsed,2016,MLB,True
+"Ellsbury, Jacoby",21142857,GOOD,Salary was parsed,2016,MLB,True
 "Davis, Chris",21118782,GOOD,Salary was parsed,2016,MLB,True
 "Rodriguez, Alex",21000000,GOOD,Salary was parsed,2016,MLB,True
 "Shields, James",21000000,GOOD,Salary was parsed,2016,MLB,True
 "Cain, Matt",20833333,GOOD,Salary was parsed,2016,MLB,True
 "Cespedes, Yoenis",20833333,GOOD,Salary was parsed,2016,MLB,True
+"Posey, Buster",20777777,GOOD,Salary was parsed,2016,MLB,True
 "Wilson, C.J.",20500000,GOOD,Salary was parsed,2016,MLB,True
 "Weaver, Jered",20200000,GOOD,Salary was parsed,2016,MLB,True
 "Porcello, Rick",20125000,GOOD,Salary was parsed,2016,MLB,True
@@ -46,24 +48,21 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Zimmermann, Jordan",18000000,GOOD,Salary was parsed,2016,MLB,True
 "Sandoval, Pablo",17600000,GOOD,Salary was parsed,2016,MLB,True
 "Heyward, Jason",17500000,GOOD,Salary was parsed,2016,MLB,True
-"Gonzalez, Carlos",17428571,GOOD,Salary was parsed,2016,MLB,True
 "Holliday, Matt",17000000,GOOD,Salary was parsed,2016,MLB,True
 "McCann, Brian",17000000,GOOD,Salary was parsed,2016,MLB,True
-"Sanchez, Anibal",16800000,GOOD,Salary was parsed,2016,MLB,True
 "Jones, Adam",16333333,GOOD,Salary was parsed,2016,MLB,True
 "Trout, Mike",16083333,GOOD,Salary was parsed,2016,MLB,True
 "Upton, Melvin Jr.",16050000,GOOD,Salary was parsed,2016,MLB,True
 "Granderson, Curtis",16000000,GOOD,Salary was parsed,2016,MLB,True
 "Lackey, John",16000000,GOOD,Salary was parsed,2016,MLB,True
-"Ortiz, David",16000000,GOOD,Salary was parsed,2016,MLB,True
 "Cueto, Johnny",15833333,GOOD,Salary was parsed,2016,MLB,True
+"Anderson, Brett",15800000,GOOD,Salary was parsed,2016,MLB,True
 "Rasmus, Colby",15800000,GOOD,Salary was parsed,2016,MLB,True
 "Wieters, Matt",15800000,GOOD,Salary was parsed,2016,MLB,True
 "Danks, John",15750000,GOOD,Salary was parsed,2016,MLB,True
 "Andrus, Elvis",15250000,GOOD,Salary was parsed,2016,MLB,True
 "Beltran, Carlos",15000000,GOOD,Salary was parsed,2016,MLB,True
 "Martin, Russell",15000000,GOOD,Salary was parsed,2016,MLB,True
-"Peavy, Jake",15000000,GOOD,Salary was parsed,2016,MLB,True
 "Swisher, Nick",15000000,GOOD,Salary was parsed,2016,MLB,True
 "Cruz, Nelson",14250000,GOOD,Salary was parsed,2016,MLB,True
 "Molina, Yadier",14200000,GOOD,Salary was parsed,2016,MLB,True
@@ -91,6 +90,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Garza, Matt",12500000,GOOD,Salary was parsed,2016,MLB,True
 "Hardy, J.J.",12500000,GOOD,Salary was parsed,2016,MLB,True
 "McCarthy, Brandon",12500000,GOOD,Salary was parsed,2016,MLB,True
+"Peralta, Jhonny",12500000,GOOD,Salary was parsed,2016,MLB,True
 "Freeman, Freddie",12359375,GOOD,Salary was parsed,2016,MLB,True
 "Gonzalez, Gio",12100000,GOOD,Salary was parsed,2016,MLB,True
 "Longoria, Evan",12100000,GOOD,Salary was parsed,2016,MLB,True
@@ -108,8 +108,10 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Castillo, Rusney",11271429,GOOD,Salary was parsed,2016,MLB,True
 "Kimbrel, Craig",11250000,GOOD,Salary was parsed,2016,MLB,True
 "Pagan, Angel",11250000,GOOD,Salary was parsed,2016,MLB,True
+"Crisp, Covelli",11000000,GOOD,Salary was parsed,2016,MLB,True
 "Iwakuma, Hisashi",11000000,GOOD,Salary was parsed,2016,MLB,True
 "Markakis, Nick",11000000,GOOD,Salary was parsed,2016,MLB,True
+"Papelbon, Jonathan",11000000,GOOD,Salary was parsed,2016,MLB,True
 "Prado, Martin",11000000,GOOD,Salary was parsed,2016,MLB,True
 "Robertson, David",11000000,GOOD,Salary was parsed,2016,MLB,True
 "Samardzija, Jeff",10800000,GOOD,Salary was parsed,2016,MLB,True
@@ -122,5 +124,3 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Encarnacion, Edwin",10000000,GOOD,Salary was parsed,2016,MLB,True
 "Happ, J.A.",10000000,GOOD,Salary was parsed,2016,MLB,True
 "Holland, Derek",10000000,GOOD,Salary was parsed,2016,MLB,True
-"Kendrick, Howie",10000000,GOOD,Salary was parsed,2016,MLB,True
-"Bumgarner, Madison",9950000,GOOD,Salary was parsed,2016,MLB,True

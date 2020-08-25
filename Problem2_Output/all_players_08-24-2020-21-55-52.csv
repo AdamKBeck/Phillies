@@ -28,13 +28,13 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Alvarez, Jose",507500,GOOD,Salary was parsed,2016,MLB,False
 "Alvarez, R.J.",507500,GOOD,Salary was parsed,2016,MLB,False
 "Amarista, Alexi",1350000,GOOD,Salary was parsed,2016,MLB,False
-"Anderson, Brett",,NONE,No salary value was present,2016,MLB,False
+"Anderson, Brett",15800000,GOOD,Salary was parsed,2016,MLB,True
 "Anderson, Chase",507500,GOOD,Salary was parsed,2016,MLB,False
 "Anderson, Cody",507500,GOOD,Salary was parsed,2016,MLB,False
 "Anderson, Tyler",507500,GOOD,Salary was parsed,2016,MLB,False
 "Andriese, Matt",507500,GOOD,Salary was parsed,2016,MLB,False
 "Andrus, Elvis",15250000,GOOD,Salary was parsed,2016,MLB,True
-"Anna, Dean",,NONE,No salary value was present,2016,MLB,False
+"Anna, Dean",507500,GOOD,Salary was parsed,2016,MLB,False
 "Aoki, Nori",5500000,GOOD,Salary was parsed,2016,MLB,False
 "Aplin, Andrew",507500,GOOD,Salary was parsed,2016,MLB,False
 "Aquino, Jayson",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -52,15 +52,15 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Avilan, Luis",1390000,GOOD,Salary was parsed,2016,MLB,False
 "Aviles, Mike",2000000,GOOD,Salary was parsed,2016,MLB,False
 "Axford, John",4500000,GOOD,Salary was parsed,2016,MLB,False
-"Aybar, Erick",,NONE,No salary value was present,2016,MLB,False
+"Aybar, Erick",8750000,GOOD,Salary was parsed,2016,MLB,False
 "Baez, Javier",507500,GOOD,Salary was parsed,2016,MLB,False
 "Baez, Pedro",507500,GOOD,Salary was parsed,2016,MLB,False
 "Bailey, Homer",18000000,GOOD,Salary was parsed,2016,MLB,True
 "Baker, Dylan",507500,GOOD,Salary was parsed,2016,MLB,False
 "Bandy, Jett",507500,GOOD,Salary was parsed,2016,MLB,False
 "Banuelos, Manny",507500,GOOD,Salary was parsed,2016,MLB,False
-"Barbato, Johnny",,NONE,No salary value was present,2016,MLB,False
-"Barnes, Austin",,NONE,No salary value was present,2016,MLB,False
+"Barbato, Johnny",507500,GOOD,Salary was parsed,2016,MLB,False
+"Barnes, Austin",507500,GOOD,Salary was parsed,2016,MLB,False
 "Barnes, Brandon",507500,GOOD,Salary was parsed,2016,MLB,False
 "Barnes, Jacob",507500,GOOD,Salary was parsed,2016,MLB,False
 "Barnes, Matt",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -73,9 +73,9 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Barrett, Jake",507500,GOOD,Salary was parsed,2016,MLB,False
 "Barrios, Yhonathan",507500,GOOD,Salary was parsed,2016,MLB,False
 "Bassitt, Chris",507500,GOOD,Salary was parsed,2016,MLB,False
-"Bastardo, Antonio",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
+"Bastardo, Antonio",5375000,GOOD,Salary was parsed,2016,MLB,False
 "Bauer, Trevor",507500,GOOD,Salary was parsed,2016,MLB,False
-"Baumann, Buddy",507500,GOOD,Salary was parsed,2016,MLB,False
+"Baumann, Buddy",,NONE,No salary value was present,2016,MLB,False
 "Bautista, Jose",14000000,GOOD,Salary was parsed,2016,MLB,True
 "Beck, Chris",507500,GOOD,Salary was parsed,2016,MLB,False
 "Beckham, Gordon",1250000,GOOD,Salary was parsed,2016,MLB,False
@@ -106,12 +106,12 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Blanco, Gregor",3900000,GOOD,Salary was parsed,2016,MLB,False
 "Blanton, Joe",4000000,GOOD,Salary was parsed,2016,MLB,False
 "Blash, Jabari",507500,GOOD,Salary was parsed,2016,MLB,False
-"Blazek, Michael",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
+"Blazek, Michael",507500,GOOD,Salary was parsed,2016,MLB,False
 "Blevins, Jerry",4000000,GOOD,Salary was parsed,2016,MLB,False
 "Bogaerts, Xander",507500,GOOD,Salary was parsed,2016,MLB,False
 "Bolsinger, Mike",507500,GOOD,Salary was parsed,2016,MLB,False
 "Bonifacio, Emilio",1250000,GOOD,Salary was parsed,2016,MLB,False
-"Bonifacio, Jorge",507500,GOOD,Salary was parsed,2016,MLB,False
+"Bonifacio, Jorge",,NONE,No salary value was present,2016,MLB,False
 "Bostick, Chris",507500,GOOD,Salary was parsed,2016,MLB,False
 "Bour, Justin",507500,GOOD,Salary was parsed,2016,MLB,False
 "Bourjos, Peter",2000000,GOOD,Salary was parsed,2016,MLB,False
@@ -145,7 +145,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Buchanan, David",507500,GOOD,Salary was parsed,2016,MLB,False
 "Buchholz, Clay",13000000,GOOD,Salary was parsed,2016,MLB,True
 "Buchter, Ryan",507500,GOOD,Salary was parsed,2016,MLB,False
-"Bumgarner, Madison",9950000,GOOD,Salary was parsed,2016,MLB,True
+"Bumgarner, Madison",9950000,GOOD,Salary was parsed,2016,MLB,False
 "Bundy, Dylan",507500,GOOD,Salary was parsed,2016,MLB,False
 "Burawa, Danny",507500,GOOD,Salary was parsed,2016,MLB,False
 "Burgos, Enrique",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -153,7 +153,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Butera, Drew",1162500,GOOD,Salary was parsed,2016,MLB,False
 "Butler, Billy",11666667,GOOD,Salary was parsed,2016,MLB,True
 "Butler, Eddie",507500,GOOD,Salary was parsed,2016,MLB,False
-"Butler, Joey",507500,GOOD,Salary was parsed,2016,MLB,False
+"Butler, Joey",,NONE,No salary value was present,2016,MLB,False
 "Buxton, Byron",507500,GOOD,Salary was parsed,2016,MLB,False
 "Cabrera, Asdrubal",8250000,GOOD,Salary was parsed,2016,MLB,False
 "Cabrera, Mauricio",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -161,7 +161,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Cabrera, Miguel",28000000,GOOD,Salary was parsed,2016,MLB,True
 "Cabrera, Ramon",507500,GOOD,Salary was parsed,2016,MLB,False
 "Cahill, Trevor",4250000,GOOD,Salary was parsed,2016,MLB,False
-"Cain, Lorenzo",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
+"Cain, Lorenzo",6500000,GOOD,Salary was parsed,2016,MLB,False
 "Cain, Matt",20833333,GOOD,Salary was parsed,2016,MLB,True
 "Calhoun, Kole",3400000,GOOD,Salary was parsed,2016,MLB,False
 "Caminero, Arquimedes",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -187,11 +187,11 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Castro, Jason",5000000,GOOD,Salary was parsed,2016,MLB,False
 "Castro, Miguel",507500,GOOD,Salary was parsed,2016,MLB,False
 "Castro, Starlin",7857143,GOOD,Salary was parsed,2016,MLB,False
-"Cave, Jake",507500,GOOD,Salary was parsed,2016,MLB,False
+"Cave, Jake",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
 "Cecchini, Garin",507500,GOOD,Salary was parsed,2016,MLB,False
 "Cecil, Brett",3800000,GOOD,Salary was parsed,2016,MLB,False
 "Ceciliani, Darrell",507500,GOOD,Salary was parsed,2016,MLB,False
-"Cedeno, Xavier",507500,GOOD,Salary was parsed,2016,MLB,False
+"Cedeno, Xavier",,NONE,No salary value was present,2016,MLB,False
 "Cervelli, Francisco",3500000,GOOD,Salary was parsed,2016,MLB,False
 "Cespedes, Yoenis",20833333,GOOD,Salary was parsed,2016,MLB,True
 "Cessa, Luis",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -234,7 +234,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Corbin, Patrick",2525000,GOOD,Salary was parsed,2016,MLB,False
 "Cordero, Jimmy",507500,GOOD,Salary was parsed,2016,MLB,False
 "Correa, Carlos",507500,GOOD,Salary was parsed,2016,MLB,False
-"Cosart, Jarred",507500,GOOD,Salary was parsed,2016,MLB,False
+"Cosart, Jarred",,NONE,No salary value was present,2016,MLB,False
 "Cotham, Caleb",507500,GOOD,Salary was parsed,2016,MLB,False
 "Cotton, Jharel",507500,GOOD,Salary was parsed,2016,MLB,False
 "Cowart, Kaleb",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -246,7 +246,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Crawford, Brandon",6000000,GOOD,Salary was parsed,2016,MLB,False
 "Crawford, Carl",21607143,GOOD,Salary was parsed,2016,MLB,True
 "Crick, Kyle",507500,GOOD,Salary was parsed,2016,MLB,False
-"Crisp, Covelli",,NONE,No salary value was present,2016,MLB,False
+"Crisp, Covelli",11000000,GOOD,Salary was parsed,2016,MLB,True
 "Crockett, Kyle",507500,GOOD,Salary was parsed,2016,MLB,False
 "Cron, C.J.",507500,GOOD,Salary was parsed,2016,MLB,False
 "Cruz, Nelson",14250000,GOOD,Salary was parsed,2016,MLB,True
@@ -262,14 +262,14 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Davis, Chris",21118782,GOOD,Salary was parsed,2016,MLB,True
 "Davis, Khris",507500,GOOD,Salary was parsed,2016,MLB,False
 "Davis, Rajai",5250000,GOOD,Salary was parsed,2016,MLB,False
-"Davis, Rookie",507500,GOOD,Salary was parsed,2016,MLB,False
+"Davis, Rookie",,NONE,No salary value was present,2016,MLB,False
 "Davis, Wade",8000000,GOOD,Salary was parsed,2016,MLB,False
 "De Aza, Alejandro",5750000,GOOD,Salary was parsed,2016,MLB,False
 "De Fratus, Justin",750000,GOOD,Salary was parsed,2016,MLB,False
 "De La Rosa, Jorge",12500000,GOOD,Salary was parsed,2016,MLB,True
 "De La Rosa, Rubby",2350000,GOOD,Salary was parsed,2016,MLB,False
-"De Los Santos, Abel",507500,GOOD,Salary was parsed,2016,MLB,False
-"Dean, Pat",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
+"De Los Santos, Abel",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
+"Dean, Pat",507500,GOOD,Salary was parsed,2016,MLB,False
 "deGrom, Jacob",607000,GOOD,Salary was parsed,2016,MLB,False
 "DeJesus Jr., Ivan",507500,GOOD,Salary was parsed,2016,MLB,False
 "Delabar, Steve",835000,GOOD,Salary was parsed,2016,MLB,False
@@ -303,7 +303,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Duffey, Tyler",507500,GOOD,Salary was parsed,2016,MLB,False
 "Duffy, Danny",4225000,GOOD,Salary was parsed,2016,MLB,False
 "Duffy, Matt",507500,GOOD,Salary was parsed,2016,MLB,False
-"Duffy, Matt",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
+"Duffy, Matt",507500,GOOD,Salary was parsed,2016,MLB,False
 "Duke, Zach",5000000,GOOD,Salary was parsed,2016,MLB,False
 "Dull, Ryan",507500,GOOD,Salary was parsed,2016,MLB,False
 "Dunn, Michael",3450000,GOOD,Salary was parsed,2016,MLB,False
@@ -311,7 +311,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Duvall, Adam",507500,GOOD,Salary was parsed,2016,MLB,False
 "Dyson, Jarrod",1725000,GOOD,Salary was parsed,2016,MLB,False
 "Dyson, Sam",525270,GOOD,Salary was parsed,2016,MLB,False
-"Eaton, Adam",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
+"Eaton, Adam",2750000,GOOD,Salary was parsed,2016,MLB,False
 "Edgin, Josh",625000,GOOD,Salary was parsed,2016,MLB,False
 "Edwards, Carl",507500,GOOD,Salary was parsed,2016,MLB,False
 "Edwards, Jon",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -320,7 +320,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Elias, Roenis",507500,GOOD,Salary was parsed,2016,MLB,False
 "Ellington, Brian",507500,GOOD,Salary was parsed,2016,MLB,False
 "Ellis, A.J.",4500000,GOOD,Salary was parsed,2016,MLB,False
-"Ellsbury, Jacoby",,NONE,No salary value was present,2016,MLB,False
+"Ellsbury, Jacoby",21142857,GOOD,Salary was parsed,2016,MLB,True
 "Encarnacion, Edwin",10000000,GOOD,Salary was parsed,2016,MLB,True
 "Eovaldi, Nate",5600000,GOOD,Salary was parsed,2016,MLB,False
 "Erlin, Robbie",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -350,7 +350,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Fien, Casey",2275000,GOOD,Salary was parsed,2016,MLB,False
 "Fiers, Michael",507500,GOOD,Salary was parsed,2016,MLB,False
 "Finnegan, Brandon",507500,GOOD,Salary was parsed,2016,MLB,False
-"Fister, Doug",7000000,GOOD,Salary was parsed,2016,MLB,False
+"Fister, Doug",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
 "Flaherty, Ryan",1500000,GOOD,Salary was parsed,2016,MLB,False
 "Flores, Kendry",507500,GOOD,Salary was parsed,2016,MLB,False
 "Flores, Ramon",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -374,7 +374,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Fulmer, Michael",507500,GOOD,Salary was parsed,2016,MLB,False
 "Furbush, Charlie",1600000,GOOD,Salary was parsed,2016,MLB,False
 "Gallardo, Yovani",9000000,GOOD,Salary was parsed,2016,MLB,False
-"Gallo, Joey",,NONE,No salary value was present,2016,MLB,False
+"Gallo, Joey",507500,GOOD,Salary was parsed,2016,MLB,False
 "Galvis, Freddy",2000000,GOOD,Salary was parsed,2016,MLB,False
 "Gamel, Ben",507500,GOOD,Salary was parsed,2016,MLB,False
 "Gant, John",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -384,15 +384,15 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Garcia, Greg",507500,GOOD,Salary was parsed,2016,MLB,False
 "Garcia, Jaime",11500000,GOOD,Salary was parsed,2016,MLB,True
 "Garcia, Jarlin",507500,GOOD,Salary was parsed,2016,MLB,False
-"Garcia, Jason",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
+"Garcia, Jason",507500,GOOD,Salary was parsed,2016,MLB,False
 "Garcia, Leury",507500,GOOD,Salary was parsed,2016,MLB,False
 "Garcia, Luis",507500,GOOD,Salary was parsed,2016,MLB,False
-"Garcia, Willy",,NONE,No salary value was present,2016,MLB,False
+"Garcia, Willy",507500,GOOD,Salary was parsed,2016,MLB,False
 "Garcia, Yimi",507500,GOOD,Salary was parsed,2016,MLB,False
 "Gardeck, Ian",507500,GOOD,Salary was parsed,2016,MLB,False
 "Gardner, Brett",13500000,GOOD,Salary was parsed,2016,MLB,True
 "Garneau, Dustin",507500,GOOD,Salary was parsed,2016,MLB,False
-"Garrett, Amir",,NONE,No salary value was present,2016,MLB,False
+"Garrett, Amir",507500,GOOD,Salary was parsed,2016,MLB,False
 "Garza, Matt",12500000,GOOD,Salary was parsed,2016,MLB,True
 "Gattis, Evan",3300000,GOOD,Salary was parsed,2016,MLB,False
 "Gausman, Kevin",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -403,12 +403,12 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Giavotella, Johnny",507500,GOOD,Salary was parsed,2016,MLB,False
 "Gibson, Kyle",507500,GOOD,Salary was parsed,2016,MLB,False
 "Giles, Ken",507500,GOOD,Salary was parsed,2016,MLB,False
-"Gillespie, Cole",507500,GOOD,Salary was parsed,2016,MLB,False
+"Gillespie, Cole",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
 "Gilmartin, Sean",507500,GOOD,Salary was parsed,2016,MLB,False
 "Gimenez, Chris",975000,GOOD,Salary was parsed,2016,MLB,False
 "Givens, Mychal",507500,GOOD,Salary was parsed,2016,MLB,False
 "Glasnow, Tyler",507500,GOOD,Salary was parsed,2016,MLB,False
-"Godley, Zack",,NONE,No salary value was present,2016,MLB,False
+"Godley, Zack",507500,GOOD,Salary was parsed,2016,MLB,False
 "Goebbert, Jake",507500,GOOD,Salary was parsed,2016,MLB,False
 "Goeddel, Erik",507500,GOOD,Salary was parsed,2016,MLB,False
 "Goeddel, Tyler",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -416,12 +416,12 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Goins, Ryan",507500,GOOD,Salary was parsed,2016,MLB,False
 "Goldschmidt, Paul",5850000,GOOD,Salary was parsed,2016,MLB,False
 "Gomes, Yan",2583333,GOOD,Salary was parsed,2016,MLB,False
-"Gomez, Carlos",9000000,GOOD,Salary was parsed,2016,MLB,False
+"Gomez, Carlos",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
 "Gomez, Jeanmar",1400000,GOOD,Salary was parsed,2016,MLB,False
 "Gonzales, Marco",507500,GOOD,Salary was parsed,2016,MLB,False
 "Gonzalez, Adrian",21857143,GOOD,Salary was parsed,2016,MLB,True
 "Gonzalez, Alfredo",507500,GOOD,Salary was parsed,2016,MLB,False
-"Gonzalez, Carlos",17428571,GOOD,Salary was parsed,2016,MLB,True
+"Gonzalez, Carlos",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
 "Gonzalez, Chi Chi",507500,GOOD,Salary was parsed,2016,MLB,False
 "Gonzalez, Erik",507500,GOOD,Salary was parsed,2016,MLB,False
 "Gonzalez, Gio",12100000,GOOD,Salary was parsed,2016,MLB,True
@@ -429,20 +429,20 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Gonzalez, Miguel",5100000,GOOD,Salary was parsed,2016,MLB,False
 "Gonzalez, Severino",507500,GOOD,Salary was parsed,2016,MLB,False
 "Goodwin, Brian",507500,GOOD,Salary was parsed,2016,MLB,False
-"Goody, Nick",,NONE,No salary value was present,2016,MLB,False
+"Goody, Nick",507500,GOOD,Salary was parsed,2016,MLB,False
 "Gordon, Alex",12000000,GOOD,Salary was parsed,2016,MLB,True
 "Gordon, Dee",3300000,GOOD,Salary was parsed,2016,MLB,False
 "Gore, Terrance",507500,GOOD,Salary was parsed,2016,MLB,False
 "Gose, Anthony",507500,GOOD,Salary was parsed,2016,MLB,False
 "Gosewisch, Tuffy",507500,GOOD,Salary was parsed,2016,MLB,False
-"Gosselin, Phil",507500,GOOD,Salary was parsed,2016,MLB,False
+"Gosselin, Phil",,NONE,No salary value was present,2016,MLB,False
 "Gott, Trevor",507500,GOOD,Salary was parsed,2016,MLB,False
 "Grace, Matt",507500,GOOD,Salary was parsed,2016,MLB,False
 "Graham, J.R.",507500,GOOD,Salary was parsed,2016,MLB,False
 "Grandal, Yasmani",2800000,GOOD,Salary was parsed,2016,MLB,False
 "Granderson, Curtis",16000000,GOOD,Salary was parsed,2016,MLB,True
 "Graveman, Kendall",507500,GOOD,Salary was parsed,2016,MLB,False
-"Gray, Jonathan",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
+"Gray, Jonathan",507500,GOOD,Salary was parsed,2016,MLB,False
 "Gray, Sonny",507500,GOOD,Salary was parsed,2016,MLB,False
 "Greene, Shane",507500,GOOD,Salary was parsed,2016,MLB,False
 "Gregerson, Luke",6250000,GOOD,Salary was parsed,2016,MLB,False
@@ -459,11 +459,11 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Guerrero, Alexander",7500000,GOOD,Salary was parsed,2016,MLB,False
 "Guerrero, Gabby",507500,GOOD,Salary was parsed,2016,MLB,False
 "Guerrero, Tayron",507500,GOOD,Salary was parsed,2016,MLB,False
-"Guerrieri, Taylor",507500,GOOD,Salary was parsed,2016,MLB,False
+"Guerrieri, Taylor",,NONE,No salary value was present,2016,MLB,False
 "Gustave, Jandel",507500,GOOD,Salary was parsed,2016,MLB,False
 "Gutierrez, Franklin",1500000,GOOD,Salary was parsed,2016,MLB,False
 "Guyer, Brandon",1185000,GOOD,Salary was parsed,2016,MLB,False
-"Gyorko, Jedd",4000000,GOOD,Salary was parsed,2016,MLB,False
+"Gyorko, Jedd",,NONE,No salary value was present,2016,MLB,False
 "Hahn, Jesse",507500,GOOD,Salary was parsed,2016,MLB,False
 "Hale, David",507500,GOOD,Salary was parsed,2016,MLB,False
 "Haley, Trey",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -484,19 +484,19 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Harrison, Josh",5250000,GOOD,Salary was parsed,2016,MLB,False
 "Harrison, Matt",13200000,GOOD,Salary was parsed,2016,MLB,True
 "Harvey, Matt",4325000,GOOD,Salary was parsed,2016,MLB,False
-"Hatcher, Chris",,NONE,No salary value was present,2016,MLB,False
+"Hatcher, Chris",1065000,GOOD,Salary was parsed,2016,MLB,False
 "Headley, Chase",13000000,GOOD,Salary was parsed,2016,MLB,True
 "Heaney, Andrew",507500,GOOD,Salary was parsed,2016,MLB,False
 "Heathcott, Slade",507500,GOOD,Salary was parsed,2016,MLB,False
 "Hechavarria, Adeiny",2625000,GOOD,Salary was parsed,2016,MLB,False
-"Hedges, Austin",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
+"Hedges, Austin",507500,GOOD,Salary was parsed,2016,MLB,False
 "Hellickson, Jeremy",7000000,GOOD,Salary was parsed,2016,MLB,False
 "Hembree, Heath",507500,GOOD,Salary was parsed,2016,MLB,False
 "Hendricks, Kyle",507500,GOOD,Salary was parsed,2016,MLB,False
 "Hendriks, Liam",507500,GOOD,Salary was parsed,2016,MLB,False
 "Heredia, Guillermo",507500,GOOD,Salary was parsed,2016,MLB,False
 "Hernandez, Cesar",507500,GOOD,Salary was parsed,2016,MLB,False
-"Hernandez, David",3900000,GOOD,Salary was parsed,2016,MLB,False
+"Hernandez, David",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
 "Hernandez, Enrique",507500,GOOD,Salary was parsed,2016,MLB,False
 "Hernandez, Felix",25857143,GOOD,Salary was parsed,2016,MLB,True
 "Hernandez, Marco",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -523,7 +523,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Holt, Tyler",507500,GOOD,Salary was parsed,2016,MLB,False
 "Hoover, J.J.",1400000,GOOD,Salary was parsed,2016,MLB,False
 "Hosmer, Eric",8250000,GOOD,Salary was parsed,2016,MLB,False
-"House, T.J.",,NONE,No salary value was present,2016,MLB,False
+"House, T.J.",507500,GOOD,Salary was parsed,2016,MLB,False
 "Houser, Adrian",507500,GOOD,Salary was parsed,2016,MLB,False
 "Howard, Ryan",25000000,GOOD,Salary was parsed,2016,MLB,True
 "Howell, J.P.",6250000,GOOD,Salary was parsed,2016,MLB,False
@@ -579,7 +579,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Kelly, Casey",507500,GOOD,Salary was parsed,2016,MLB,False
 "Kelly, Joe",2600000,GOOD,Salary was parsed,2016,MLB,False
 "Kemp, Matt",21750000,GOOD,Salary was parsed,2016,MLB,True
-"Kendrick, Howie",10000000,GOOD,Salary was parsed,2016,MLB,True
+"Kendrick, Howie",10000000,GOOD,Salary was parsed,2016,MLB,False
 "Kennedy, Ian",7500000,GOOD,Salary was parsed,2016,MLB,False
 "Kepler, Max",507500,GOOD,Salary was parsed,2016,MLB,False
 "Kershaw, Clayton",34571429,GOOD,Salary was parsed,2016,MLB,True
@@ -591,10 +591,10 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Kimbrel, Craig",11250000,GOOD,Salary was parsed,2016,MLB,True
 "Kingham, Nick",507500,GOOD,Salary was parsed,2016,MLB,False
 "Kinsler, Ian",14000000,GOOD,Salary was parsed,2016,MLB,True
-"Kipnis, Jason",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
+"Kipnis, Jason",6166667,GOOD,Salary was parsed,2016,MLB,False
 "Kivlehan, Patrick",507500,GOOD,Salary was parsed,2016,MLB,False
 "Klein, Phil",507500,GOOD,Salary was parsed,2016,MLB,False
-"Kluber, Corey",4700000,GOOD,Salary was parsed,2016,MLB,False
+"Kluber, Corey",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
 "Knebel, Corey",507500,GOOD,Salary was parsed,2016,MLB,False
 "Koch, Matt",507500,GOOD,Salary was parsed,2016,MLB,False
 "Koehler, Tom",3500000,GOOD,Salary was parsed,2016,MLB,False
@@ -612,13 +612,13 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Lambo, Andrew",507500,GOOD,Salary was parsed,2016,MLB,False
 "Landa, Yorman",507500,GOOD,Salary was parsed,2016,MLB,False
 "LaRoche, Adam",13000000,GOOD,Salary was parsed,2016,MLB,True
-"Latos, Mat",3000000,GOOD,Salary was parsed,2016,MLB,False
+"Latos, Mat",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
 "Law, Derek",507500,GOOD,Salary was parsed,2016,MLB,False
 "Lawrie, Brett",4125000,GOOD,Salary was parsed,2016,MLB,False
 "Layne, Tommy",507500,GOOD,Salary was parsed,2016,MLB,False
 "Lazo, Raudel",507500,GOOD,Salary was parsed,2016,MLB,False
 "Leake, Mike",12000000,GOOD,Salary was parsed,2016,MLB,True
-"Leclerc, Jose",507500,GOOD,Salary was parsed,2016,MLB,False
+"Leclerc, Jose",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
 "Lee, Chris",507500,GOOD,Salary was parsed,2016,MLB,False
 "Lee, Nick",507500,GOOD,Salary was parsed,2016,MLB,False
 "Lee, Zach",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -707,10 +707,10 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Medlen, Kris",5500000,GOOD,Salary was parsed,2016,MLB,False
 "Mejia, Adalberto",507500,GOOD,Salary was parsed,2016,MLB,False
 "Mejia, Jenrry",2470000,GOOD,Salary was parsed,2016,MLB,False
-"Melancon, Mark",9650000,GOOD,Salary was parsed,2016,MLB,False
+"Melancon, Mark",,NONE,No salary value was present,2016,MLB,False
 "Melotakis, Mason",507500,GOOD,Salary was parsed,2016,MLB,False
 "Mendez, Yohander",507500,GOOD,Salary was parsed,2016,MLB,False
-"Mercer, Jordy",2075000,GOOD,Salary was parsed,2016,MLB,False
+"Mercer, Jordy",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
 "Merritt, Ryan",507500,GOOD,Salary was parsed,2016,MLB,False
 "Mesoraco, Devin",5025000,GOOD,Salary was parsed,2016,MLB,False
 "Meyer, Alex",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -748,7 +748,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Moss, Brandon",8250000,GOOD,Salary was parsed,2016,MLB,False
 "Motte, Jason",5000000,GOOD,Salary was parsed,2016,MLB,False
 "Motter, Taylor",507500,GOOD,Salary was parsed,2016,MLB,False
-"Moustakas, Mike",5600000,GOOD,Salary was parsed,2016,MLB,False
+"Moustakas, Mike",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
 "Moya, Steven",507500,GOOD,Salary was parsed,2016,MLB,False
 "Muncy, Max",507500,GOOD,Salary was parsed,2016,MLB,False
 "Murphy, Daniel",8000000,GOOD,Salary was parsed,2016,MLB,False
@@ -767,7 +767,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Nesbitt, Angel",507500,GOOD,Salary was parsed,2016,MLB,False
 "Neshek, Pat",6500000,GOOD,Salary was parsed,2016,MLB,False
 "Ngoepe, Gift",507500,GOOD,Salary was parsed,2016,MLB,False
-"Nicasio, Juan",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
+"Nicasio, Juan",3000000,GOOD,Salary was parsed,2016,MLB,False
 "Nicolino, Justin",507500,GOOD,Salary was parsed,2016,MLB,False
 "Niese, Jon",9050000,GOOD,Salary was parsed,2016,MLB,False
 "Nieuwenhuis, Kirk",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -790,17 +790,17 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "O'Rourke, Ryan",507500,GOOD,Salary was parsed,2016,MLB,False
 "Oberg, Scott",507500,GOOD,Salary was parsed,2016,MLB,False
 "Oberholtzer, Brett",507500,GOOD,Salary was parsed,2016,MLB,False
-"Odor, Rougned",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
+"Odor, Rougned",522700,GOOD,Salary was parsed,2016,MLB,False
 "Odorizzi, Jake",507500,GOOD,Salary was parsed,2016,MLB,False
 "Ogando, Nefi",507500,GOOD,Salary was parsed,2016,MLB,False
 "Oh, Seung-hwan",5000000,GOOD,Salary was parsed,2016,MLB,False
-"Ohlman, Michael",507500,GOOD,Salary was parsed,2016,MLB,False
+"Ohlman, Michael",,NONE,No salary value was present,2016,MLB,False
 "Okert, Steven",507500,GOOD,Salary was parsed,2016,MLB,False
 "Olivera, Hector",8666666,GOOD,Salary was parsed,2016,MLB,False
 "Olson, Tyler",507500,GOOD,Salary was parsed,2016,MLB,False
 "Oretga, Rafael",507500,GOOD,Salary was parsed,2016,MLB,False
 "Orlando, Paulo",514250,GOOD,Salary was parsed,2016,MLB,False
-"Ortiz, David",16000000,GOOD,Salary was parsed,2016,MLB,True
+"Ortiz, David",,NONE,No salary value was present,2016,MLB,False
 "Osich, Josh",507500,GOOD,Salary was parsed,2016,MLB,False
 "Osuna, Roberto",507500,GOOD,Salary was parsed,2016,MLB,False
 "Otero, Danny",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -810,8 +810,8 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Ozuna, Marcell",507500,GOOD,Salary was parsed,2016,MLB,False
 "Pagan, Angel",11250000,GOOD,Salary was parsed,2016,MLB,True
 "Panik, Joe",507500,GOOD,Salary was parsed,2016,MLB,False
-"Papelbon, Jonathan",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
-"Paredes, Jimmy",507500,GOOD,Salary was parsed,2016,MLB,False
+"Papelbon, Jonathan",11000000,GOOD,Salary was parsed,2016,MLB,True
+"Paredes, Jimmy",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
 "Park, Byung Ho",2750000,GOOD,Salary was parsed,2016,MLB,False
 "Parker, Jarrett",507500,GOOD,Salary was parsed,2016,MLB,False
 "Parker, Jarrod",850000,GOOD,Salary was parsed,2016,MLB,False
@@ -823,7 +823,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Pazos, James",507500,GOOD,Salary was parsed,2016,MLB,False
 "Peacock, Brad",507500,GOOD,Salary was parsed,2016,MLB,False
 "Pearce, Steve",4750000,GOOD,Salary was parsed,2016,MLB,False
-"Peavy, Jake",15000000,GOOD,Salary was parsed,2016,MLB,True
+"Peavy, Jake",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
 "Pederson, Joc",507500,GOOD,Salary was parsed,2016,MLB,False
 "Pedroia, Dustin",13125000,GOOD,Salary was parsed,2016,MLB,True
 "Pelfrey, Mike",8000000,GOOD,Salary was parsed,2016,MLB,False
@@ -832,8 +832,8 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Pena, Francisco",507500,GOOD,Salary was parsed,2016,MLB,False
 "Pence, Hunter",18500000,GOOD,Salary was parsed,2016,MLB,True
 "Pennington, Cliff",1500000,GOOD,Salary was parsed,2016,MLB,False
-"Peralta, David",,NONE,No salary value was present,2016,MLB,False
-"Peralta, Jhonny",,NONE,No salary value was present,2016,MLB,False
+"Peralta, David",507500,GOOD,Salary was parsed,2016,MLB,False
+"Peralta, Jhonny",12500000,GOOD,Salary was parsed,2016,MLB,True
 "Peralta, Wily",2800000,GOOD,Salary was parsed,2016,MLB,False
 "Peraza, Jose",507500,GOOD,Salary was parsed,2016,MLB,False
 "Perdomo, Luis",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -846,7 +846,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Perkins, Glen",6300000,GOOD,Salary was parsed,2016,MLB,False
 "Peterson, Jace",507500,GOOD,Salary was parsed,2016,MLB,False
 "Petit, Yusmeiro",2500000,GOOD,Salary was parsed,2016,MLB,False
-"Petricka, Jake",507500,GOOD,Salary was parsed,2016,MLB,False
+"Petricka, Jake",,NONE,No salary value was present,2016,MLB,False
 "Pham, Tommy",507500,GOOD,Salary was parsed,2016,MLB,False
 "Phegley, Josh",507500,GOOD,Salary was parsed,2016,MLB,False
 "Phelps, David",2500000,GOOD,Salary was parsed,2016,MLB,False
@@ -861,12 +861,12 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Plawecki, Kevin",507500,GOOD,Salary was parsed,2016,MLB,False
 "Plouffe, Trevor",7250000,GOOD,Salary was parsed,2016,MLB,False
 "Polanco, Gregory",507500,GOOD,Salary was parsed,2016,MLB,False
-"Polanco, Jorge",507500,GOOD,Salary was parsed,2016,MLB,False
+"Polanco, Jorge",,NONE,No salary value was present,2016,MLB,False
 "Pollock, A.J.",3500000,GOOD,Salary was parsed,2016,MLB,False
 "Pomeranz, Drew",1350000,GOOD,Salary was parsed,2016,MLB,False
 "Pompey, Dalton",507500,GOOD,Salary was parsed,2016,MLB,False
 "Porcello, Rick",20125000,GOOD,Salary was parsed,2016,MLB,True
-"Posey, Buster",,NONE,No salary value was present,2016,MLB,False
+"Posey, Buster",20777777,GOOD,Salary was parsed,2016,MLB,True
 "Powell, Boog",507500,GOOD,Salary was parsed,2016,MLB,False
 "Prado, Martin",11000000,GOOD,Salary was parsed,2016,MLB,True
 "Pressly, Ryan",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -896,7 +896,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Rasmus, Cory",507500,GOOD,Salary was parsed,2016,MLB,False
 "Rasmussen, Rob",507500,GOOD,Salary was parsed,2016,MLB,False
 "Ravelo, Rangel",507500,GOOD,Salary was parsed,2016,MLB,False
-"Ravin, Josh",,NONE,No salary value was present,2016,MLB,False
+"Ravin, Josh",507500,GOOD,Salary was parsed,2016,MLB,False
 "Ray, Robbie",507500,GOOD,Salary was parsed,2016,MLB,False
 "Rea, Colin",507500,GOOD,Salary was parsed,2016,MLB,False
 "Realmuto, J.T.",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -913,7 +913,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Reynolds, Matt",675000,GOOD,Salary was parsed,2016,MLB,False
 "Reynolds, Matt",507500,GOOD,Salary was parsed,2016,MLB,False
 "Richard, Clayton",2000000,GOOD,Salary was parsed,2016,MLB,False
-"Richards, Garrett",6425000,GOOD,Salary was parsed,2016,MLB,False
+"Richards, Garrett",,NONE,No salary value was present,2016,MLB,False
 "Rickard, Joey",507500,GOOD,Salary was parsed,2016,MLB,False
 "Riefenhauser, C.J.",507500,GOOD,Salary was parsed,2016,MLB,False
 "Rivera, Rene",1700000,GOOD,Salary was parsed,2016,MLB,False
@@ -938,13 +938,13 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Rogers, Jason",507500,GOOD,Salary was parsed,2016,MLB,False
 "Rogers, Taylor",507500,GOOD,Salary was parsed,2016,MLB,False
 "Rojas, Miguel",507500,GOOD,Salary was parsed,2016,MLB,False
-"Rollins, David",507500,GOOD,Salary was parsed,2016,MLB,False
+"Rollins, David",,NONE,No salary value was present,2016,MLB,False
 "Romano, Sal",507500,GOOD,Salary was parsed,2016,MLB,False
 "Romero, Enny",507500,GOOD,Salary was parsed,2016,MLB,False
 "Romero, Stefen",507500,GOOD,Salary was parsed,2016,MLB,False
 "Romine, Andrew",900000,GOOD,Salary was parsed,2016,MLB,False
 "Romine, Austin",507500,GOOD,Salary was parsed,2016,MLB,False
-"Romo, Sergio",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
+"Romo, Sergio",9000000,GOOD,Salary was parsed,2016,MLB,False
 "Rondon, Bruce",507500,GOOD,Salary was parsed,2016,MLB,False
 "Rondon, Hector",4200000,GOOD,Salary was parsed,2016,MLB,False
 "Rondon, Jose",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -959,11 +959,11 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Rowen, Ben",507500,GOOD,Salary was parsed,2016,MLB,False
 "Rua, Ryan",507500,GOOD,Salary was parsed,2016,MLB,False
 "Ruf, Darin",507500,GOOD,Salary was parsed,2016,MLB,False
-"Ruggiano, Justin",,NONE,No salary value was present,2016,MLB,False
+"Ruggiano, Justin",1650000,GOOD,Salary was parsed,2016,MLB,False
 "Ruiz, Carlos",8500000,GOOD,Salary was parsed,2016,MLB,False
 "Rumbelow, Nick",507500,GOOD,Salary was parsed,2016,MLB,False
-"Rupp, Cameron",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
-"Rusin, Chris",507500,GOOD,Salary was parsed,2016,MLB,False
+"Rupp, Cameron",507500,GOOD,Salary was parsed,2016,MLB,False
+"Rusin, Chris",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
 "Russell, Addison",507500,GOOD,Salary was parsed,2016,MLB,False
 "Rutckyj, Evan",507500,GOOD,Salary was parsed,2016,MLB,False
 "Ryan, Kyle",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -979,7 +979,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Samardzija, Jeff",10800000,GOOD,Salary was parsed,2016,MLB,True
 "Sampson, Keyvius",507500,GOOD,Salary was parsed,2016,MLB,False
 "Sanchez, Aaron",507500,GOOD,Salary was parsed,2016,MLB,False
-"Sanchez, Anibal",16800000,GOOD,Salary was parsed,2016,MLB,True
+"Sanchez, Anibal",,NONE,No salary value was present,2016,MLB,False
 "Sanchez, Carlos",507500,GOOD,Salary was parsed,2016,MLB,False
 "Sanchez, Gary",507500,GOOD,Salary was parsed,2016,MLB,False
 "Sandoval, Pablo",17600000,GOOD,Salary was parsed,2016,MLB,True
@@ -1004,7 +1004,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Seager, Kyle",8000000,GOOD,Salary was parsed,2016,MLB,False
 "Segura, Jean",2600000,GOOD,Salary was parsed,2016,MLB,False
 "Semien, Marcus",507500,GOOD,Salary was parsed,2016,MLB,False
-"Senzatela, Antonio",507500,GOOD,Salary was parsed,2016,MLB,False
+"Senzatela, Antonio",,NONE,No salary value was present,2016,MLB,False
 "Severino, Luis",507500,GOOD,Salary was parsed,2016,MLB,False
 "Severino, Pedro",507500,GOOD,Salary was parsed,2016,MLB,False
 "Shaffer, Richie",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -1025,7 +1025,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Smith, Blake",507500,GOOD,Salary was parsed,2016,MLB,False
 "Smith, Carson",507500,GOOD,Salary was parsed,2016,MLB,False
 "Smith, Jake",507500,GOOD,Salary was parsed,2016,MLB,False
-"Smith, Joe",,NONE,No salary value was present,2016,MLB,False
+"Smith, Joe",5250000,GOOD,Salary was parsed,2016,MLB,False
 "Smith, Kevan",507500,GOOD,Salary was parsed,2016,MLB,False
 "Smith, Mallex",507500,GOOD,Salary was parsed,2016,MLB,False
 "Smith, Seth",6750000,GOOD,Salary was parsed,2016,MLB,False
@@ -1035,8 +1035,8 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Smolinski, Jake",507500,GOOD,Salary was parsed,2016,MLB,False
 "Smyly, Drew",3750000,GOOD,Salary was parsed,2016,MLB,False
 "Snell, Blake",507500,GOOD,Salary was parsed,2016,MLB,False
-"Socolovich, Miguel",,NONE,No salary value was present,2016,MLB,False
-"Sogard, Eric",1500000,GOOD,Salary was parsed,2016,MLB,False
+"Socolovich, Miguel",507500,GOOD,Salary was parsed,2016,MLB,False
+"Sogard, Eric",,NONE,No salary value was present,2016,MLB,False
 "Solarte, Yangervis",507500,GOOD,Salary was parsed,2016,MLB,False
 "Soler, Jorge",3666667,GOOD,Salary was parsed,2016,MLB,False
 "Solis, Sammy",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -1067,13 +1067,13 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Stumpf, Daniel",507500,GOOD,Salary was parsed,2016,MLB,False
 "Suarez, Eugenio",507500,GOOD,Salary was parsed,2016,MLB,False
 "Sucre, Jesus",507500,GOOD,Salary was parsed,2016,MLB,False
-"Susac, Andrew",507500,GOOD,Salary was parsed,2016,MLB,False
+"Susac, Andrew",,NONE,No salary value was present,2016,MLB,False
 "Suzuki, Ichiro",2000000,GOOD,Salary was parsed,2016,MLB,False
 "Suzuki, Kurt",6000000,GOOD,Salary was parsed,2016,MLB,False
 "Sweeney, Darnell",507500,GOOD,Salary was parsed,2016,MLB,False
 "Swihart, Blake",507500,GOOD,Salary was parsed,2016,MLB,False
 "Swisher, Nick",15000000,GOOD,Salary was parsed,2016,MLB,True
-"Syndergaard, Noah",,NONE,No salary value was present,2016,MLB,False
+"Syndergaard, Noah",507500,GOOD,Salary was parsed,2016,MLB,False
 "Szczur, Matt",507500,GOOD,Salary was parsed,2016,MLB,False
 "Taillon, Jameson",507500,GOOD,Salary was parsed,2016,MLB,False
 "Tanaka, Masahiro",22000000,GOOD,Salary was parsed,2016,MLB,True
@@ -1081,10 +1081,10 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Taylor, Chris",507500,GOOD,Salary was parsed,2016,MLB,False
 "Taylor, Michael",507500,GOOD,Salary was parsed,2016,MLB,False
 "Tazawa, Junichi",3375000,GOOD,Salary was parsed,2016,MLB,False
-"Teheran, Julio",3466666,GOOD,Salary was parsed,2016,MLB,False
+"Teheran, Julio",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
 "Teixeira, Mark",23125000,GOOD,Salary was parsed,2016,MLB,True
 "Tejada, Ruben",3000000,GOOD,Salary was parsed,2016,MLB,False
-"Telis, Tomas",,NONE,No salary value was present,2016,MLB,False
+"Telis, Tomas",507500,GOOD,Salary was parsed,2016,MLB,False
 "Tepera, Ryan",507500,GOOD,Salary was parsed,2016,MLB,False
 "Thole, Josh",800000,GOOD,Salary was parsed,2016,MLB,False
 "Thomas, Ian",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -1112,12 +1112,12 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Turner, Jacob",1500000,GOOD,Salary was parsed,2016,MLB,False
 "Turner, Justin",5100000,GOOD,Salary was parsed,2016,MLB,False
 "Turner, Trea",507500,GOOD,Salary was parsed,2016,MLB,False
-"Uehara, Koji",9000000,GOOD,Salary was parsed,2016,MLB,False
+"Uehara, Koji",,NONE,No salary value was present,2016,MLB,False
 "Upton, Justin",22125000,GOOD,Salary was parsed,2016,MLB,True
 "Upton, Melvin Jr.",16050000,GOOD,Salary was parsed,2016,MLB,True
 "Urena, Jose",507500,GOOD,Salary was parsed,2016,MLB,False
 "Uribe, Juan",4000000,GOOD,Salary was parsed,2016,MLB,False
-"Urrutia, Henry",,NONE,No salary value was present,2016,MLB,False
+"Urrutia, Henry",507500,GOOD,Salary was parsed,2016,MLB,False
 "Urshela, Giovanny",507500,GOOD,Salary was parsed,2016,MLB,False
 "Utley, Chase",7000000,GOOD,Salary was parsed,2016,MLB,False
 "Valbuena, Luis",6125000,GOOD,Salary was parsed,2016,MLB,False
@@ -1145,7 +1145,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Volquez, Edinson",9500000,GOOD,Salary was parsed,2016,MLB,False
 "Votto, Joey",20000000,GOOD,Salary was parsed,2016,MLB,True
 "Wacha, Michael",,NONE,No salary value was present,2016,MLB,False
-"Wagner, Tyler",,NONE,No salary value was present,2016,MLB,False
+"Wagner, Tyler",507500,GOOD,Salary was parsed,2016,MLB,False
 "Wainwright, Adam",19500000,GOOD,Salary was parsed,2016,MLB,True
 "Walden, Jordan",3675000,GOOD,Salary was parsed,2016,MLB,False
 "Waldrop, Kyle",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -1168,7 +1168,7 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Werth, Jayson",21571429,GOOD,Salary was parsed,2016,MLB,True
 "Wheeler, Zack",507500,GOOD,Salary was parsed,2016,MLB,False
 "Whitley, Chase",507500,GOOD,Salary was parsed,2016,MLB,False
-"Wieland, Joe",,NONE,No salary value was present,2016,MLB,False
+"Wieland, Joe",590000,GOOD,Salary was parsed,2016,MLB,False
 "Wieters, Matt",15800000,GOOD,Salary was parsed,2016,MLB,True
 "Wilhelmsen, Tom",3100000,GOOD,Salary was parsed,2016,MLB,False
 "Wilkins, Andy",507500,GOOD,Salary was parsed,2016,MLB,False
@@ -1177,17 +1177,17 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Wilson, Alex",507500,GOOD,Salary was parsed,2016,MLB,False
 "Wilson, C.J.",20500000,GOOD,Salary was parsed,2016,MLB,True
 "Wilson, Justin",1525000,GOOD,Salary was parsed,2016,MLB,False
-"Wilson, Tyler",,NONE,No salary value was present,2016,MLB,False
+"Wilson, Tyler",507500,GOOD,Salary was parsed,2016,MLB,False
 "Winkler, Daniel",507500,GOOD,Salary was parsed,2016,MLB,False
 "Wisler, Matt",507500,GOOD,Salary was parsed,2016,MLB,False
-"Withrow, Chris",,NONE,No salary value was present,2016,MLB,False
+"Withrow, Chris",610000,GOOD,Salary was parsed,2016,MLB,False
 "Wittgren, Nick",507500,GOOD,Salary was parsed,2016,MLB,False
 "Wojciechowski, Asher",507500,GOOD,Salary was parsed,2016,MLB,False
-"Wolters, Tony",507500,GOOD,Salary was parsed,2016,MLB,False
+"Wolters, Tony",,NONE,No salary value was present,2016,MLB,False
 "Wong, Kolten",1250000,GOOD,Salary was parsed,2016,MLB,False
 "Wood, Alex",507500,GOOD,Salary was parsed,2016,MLB,False
 "Wood, Blake",507500,GOOD,Salary was parsed,2016,MLB,False
-"Wood, Travis",no salary data,NO_SALARY_DATA,'no salary data' was present for the value,2016,MLB,False
+"Wood, Travis",6170000,GOOD,Salary was parsed,2016,MLB,False
 "Workman, Brandon",507500,GOOD,Salary was parsed,2016,MLB,False
 "Worley, Vance",2600000,GOOD,Salary was parsed,2016,MLB,False
 "Wright, David",20000000,GOOD,Salary was parsed,2016,MLB,True
@@ -1205,5 +1205,5 @@ Player,Salary,Salary Status Code,Salary Status Message,Year,Level,Is Top Player
 "Zimmerman, Ryan",14000000,GOOD,Salary was parsed,2016,MLB,True
 "Zimmermann, Jordan",18000000,GOOD,Salary was parsed,2016,MLB,True
 "Zobrist, Ben",10500000,GOOD,Salary was parsed,2016,MLB,True
-"Zunino, Mike",,NONE,No salary value was present,2016,MLB,False
+"Zunino, Mike",507500,GOOD,Salary was parsed,2016,MLB,False
 "Zych, Tony",507500,GOOD,Salary was parsed,2016,MLB,False
