@@ -49,9 +49,9 @@ I noticed the years seem to be 2016 and the level is "MLB". I'm assuming that th
 This is a purely backend program to give the user full control on how they want to process the output.
 
 Output is split into three files:
-    1. A results.txt file which lists out the qualifying offer and total amount of salaries considered.
-    2. A top_players.csv file as a convenience. This contains the top 125 players that were considered, sorted by highest to lowest salary.
-    3. An all_players.csv file, noting the same information as the parsed webpage. There are two new columns added, *Salary Status Code* and *Salary Status Message* to show the user the reason why a player's salary was not considered or could not be parsed.
+1. A results.txt file which lists out the qualifying offer and total amount of salaries considered.
+2. A top_players.csv file as a convenience. This contains the top 125 players that were considered, sorted by highest to lowest salary.
+3. An all_players.csv file, noting the same information as the parsed webpage. There are two new columns added, *Salary Status Code* and *Salary Status Message* to show the user the reason why a player's salary was not considered or could not be parsed.
 
 ## Next Steps To Consider
 Here's some next steps that I'd like to add:
