@@ -8,7 +8,6 @@ from urllib.request import urlopen
 
 DATASET_URL = "https://questionnaire-148920.appspot.com/swe/data.html"
 
-
 class SalaryStatus(Enum):
     NONE = 'No salary value was present'
     NO_SALARY_DATA = "'no salary data' was present for the value"
@@ -17,11 +16,22 @@ class SalaryStatus(Enum):
 
 
 class Player:
+    CSV_HEADER = [
+        'Player',
+        'Salary',
+        'Salary Status Code',
+        'Salary Status Message',
+        'Year',
+        'Level',
+        'Is Top Player'
+    ]
+
     def __init__(self, name, salary, year, level):
         self.name = name
         self.salary, self.salary_status = self._parse_salary(salary)
         self.year = year
         self.level = level
+        self.is_top_player = False
 
     def _parse_salary(self, salary):
         if not salary:
@@ -35,6 +45,17 @@ class Player:
             return salary, SalaryStatus.GOOD
         except ValueError:
             return salary, SalaryStatus.UNKNOWN
+
+    def to_csv_row(self):
+        return [
+            self.name,
+            self.salary,
+            self.salary_status.name,
+            self.salary_status.value,
+            self.year,
+            self.level,
+            self.is_top_player,
+        ]
 
 
 def fetch():
