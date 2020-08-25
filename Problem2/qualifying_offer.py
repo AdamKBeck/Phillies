@@ -7,6 +7,7 @@ from datetime import datetime as dt
 HIGHEST_SALARIES_THRESHOLD = 125
 BUILD_FILEPATH = lambda x: os.path.join('Problem2_Output', x)
 
+
 def _save_result(offer, players, clean_players, top_players):
     date_str = dt.now().strftime("%m-%d-%Y-%H-%M-%S")
 
