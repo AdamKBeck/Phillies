@@ -35,7 +35,7 @@ To run the program, simply:
 make run
 ```
 
-The output is located in the *Problem2_Output_Sample* directory, with the current timestamp in the filename as a convenience.
+The output will be located in the *Problem2_Output* directory, with the current timestamp in the filename as a convenience.
 
 ## Assumptions and Known Issues
 This program leans towards robustness rather than correctness when parsing salaries. For example, if a salary is *$$$3,234,355*, we consider it.
