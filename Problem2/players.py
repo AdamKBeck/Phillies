@@ -8,6 +8,7 @@ from urllib.request import urlopen
 
 DATASET_URL = "https://questionnaire-148920.appspot.com/swe/data.html"
 
+
 class SalaryStatus(Enum):
     NONE = 'No salary value was present'
     NO_SALARY_DATA = "'no salary data' was present for the value"

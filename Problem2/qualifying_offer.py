@@ -4,6 +4,7 @@ import statistics
 import os
 from datetime import datetime as dt
 
+
 HIGHEST_SALARIES_THRESHOLD = 125
 BUILD_FILEPATH = lambda x: os.path.join('Problem2_Output', x)
 
@@ -31,6 +32,7 @@ def _save_result(offer, players, clean_players, top_players):
                 ]
             )
         )
+
 
 def _run():
     players = MLBPlayers.fetch()
