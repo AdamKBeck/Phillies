@@ -65,4 +65,4 @@ Here's some next steps that I'd like to add:
 
 ## Screenshots
 Example of the all_players.csv
-![Alt text](/README_Images/all_salaries.png))
+![Alt text](/README_Images/all_salaries.png)
