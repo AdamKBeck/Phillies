@@ -1,5 +1,5 @@
 import csv
-import players as MLBPlayers
+import Problem2.players as MLBPlayers
 import statistics
 import os
 from datetime import datetime as dt

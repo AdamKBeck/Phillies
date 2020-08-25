@@ -2,17 +2,31 @@
 ## Overview
 Problem1: Please see the attached markdown file.
 
-Problem2: Located in two folders, *Problem2* and *Problem2_Output*.
+Problem2: Located in two folders, *Problem2* and *Problem2_Output_Sample*.
 
-## Problem 2 Installation (MacOS and Linux)
+## Problem 2 Installation (MacOS, Linux, and Windows with WSL)
 Ensure that you have python3 installed. After cloning this repository, create a virtual environment and download this project's dependencies by running:
 
 ```bash
 make venv
 ```
 
+If you don't have python virtual environments installed, one way of installing it is:
+
+```bash
+sudo apt-get install python3-venv
+```
+
+Then to install the required packages, run:
+
 ```bash
 make update
+```
+
+On some systems, this might fail because instead of `pip3`, you are using pip. Please run this command to use `pip` instead of `pip3`.
+
+```bash
+make update_with_pip
 ```
 
 ## Running
@@ -21,7 +35,7 @@ To run the program, simply:
 make run
 ```
 
-The output is located in the *Problem2_Output* directory, with the current timestamp in the filename as a convenience.
+The output is located in the *Problem2_Output_Sample* directory, with the current timestamp in the filename as a convenience.
 
 ## Assumptions and Known Issues
 This program leans towards robustness rather than correctness when parsing salaries. For example, if a salary is *$$$3,234,355*, we consider it.
